@@ -2,16 +2,20 @@
   background-color: #fff;
   padding: 20px 150px;
 }
+
 .navbar-nav .nav-link {
   font-size: 16px;
   margin-left: 15px;
 }
+
 .navbar-nav .nav-link:hover {
   color: orange;
 }
+
 .navbar-brand img {
   height: 60px;
 }
+
 .header-button {
   background-color: orange;
   color: white;
@@ -19,14 +23,17 @@
   border-radius: 10px;
   border: none;
 }
+
 .header-button:hover {
   background-color: darkorange;
 }
+
 .nav-link.dropdown-toggle::after {
   margin-top: 1px;
   margin-right: 10px;
   vertical-align: middle;
 }
+
 .navbar .dropdown-toggle::after {
   margin-left: 5px;
-}
+}/*# sourceMappingURL=style.css.map */
